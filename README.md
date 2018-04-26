@@ -1,4 +1,4 @@
-# myapp
+# myapp 使用需要安装的部分
 
 > A Vue.js project
 
